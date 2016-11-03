@@ -18,7 +18,7 @@ Madhapur, Hyderabad, 500081
 
 Career objective
 --------------------
-Being FOSS and Python enthusiast, I believe in learning and growing by sharing knowledge. I want to utilize open source platforms to build new solutions, solve complex business problems and constantly keep learning in that order.
+Being FOSS and Python enthusiast, I believe in learning and growing by sharing knowledge. I want to utilize open source platforms to build new solutions, solve complex business problems and to persist my learning.
 
 
 skills
