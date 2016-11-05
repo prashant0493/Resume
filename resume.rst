@@ -85,4 +85,4 @@ Extra curricular activities:
         
 References
 -----------
-+ Suraj Deshmukh, Software dev at Red Hat,
++ Suraj Deshmukh, Software dev at Red Hat, surajd AT redhat DOT com
