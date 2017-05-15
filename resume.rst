@@ -7,7 +7,7 @@ Code: https://github.com/prashant0493
 
 IRC: PrashatJ | `Freenode <https://webchat.freenode.net/>`_
 
-Blog : `https://prashantjamkhande.wordpress.com/`_
+Blog : `https://prashantjamkhande.wordpress.com/`
 
 (+91) 94 0438 1575
 
@@ -58,8 +58,8 @@ Community roles:
 
 - Active volunteer at Hyderabad Python users community for organizing regular meetups
 - Volunteer at `PyCon India, 2016 <https://in.pycon.org/2016/>`_
-- Delivered talk in local meetups `http://www.hydpy.org/python%20basic/python/python-101-hands-on-session`_
-- Participated in DevSprint at `https://pune.pycon.org/`_
+- Delivered talk in local meetups `Python 101 session Under HydPy <http://www.hydpy.org/python%20basic/python/python-101-hands-on-session>`_
+- Participated in DevSprint at `PyCon Pune <https://pune.pycon.org/>`_
 
 Education
 ------------
