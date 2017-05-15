@@ -47,6 +47,7 @@ Accenture India pvt. limited, Hyderabad  (November, 2015 to present date)
 - Worked with BMC Remedy indident management tool to resolve incidents with SLA.
 - Bug fixings and code review
 
+
 - Exposure to file handling, modules and libraries in Python
 - Exposure to VCS like GIT
 - Open source project contribution experience
