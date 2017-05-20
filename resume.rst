@@ -37,7 +37,7 @@ Skills
 Experience
 ----------------
 * Accenture India pvt. limited, Hyderabad  (November, 2015 to present date)
-    - Worked on SAP based support project with SAP's standard programming langauage ABAP.
+    - Worked on SAP based support project with SAP's standard programming language ABAP.
     - Experience and expertise with ABAP with object oriented programming
     - Worked in FICO (Finance and Controlling) domain for major German client in manufacturing industry.
     - Working on data dictionary objects like tables, views, table maintenance with SAP and Non-SAP data sources.
