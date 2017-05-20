@@ -19,17 +19,17 @@ Being FOSS and Python enthusiast, I believe in learning and growing by sharing k
 
 Skills
 ---------
-* Programming languages::
-        Python 2.x/3.x, Java, SAP ABAP, SQL, HTML
+* Programming languages
+        *Python 2.x/3.x, Java, SAP ABAP, SQL, HTML*
 
-* Tools and systems::
-         Django, Git, Ansible, vim, Linux (Fedora, RHEL), Vagrant, VirtualEnv, SAP, MySQL
+* Tools and systems
+         *Django, Git, Ansible, vim, Linux (Fedora, RHEL), Vagrant, VirtualEnv, SAP, MySQL*
 
-* Documentation tools:: 
-        Sphinx, reST
+* Documentation tools 
+        *Sphinx, reST*
 
-* Interests::
-        Python, FOSS, Web development, Linux
+* Interests
+        *Python, FOSS, Web development, Linux*
 
 ----------------
 Experience
