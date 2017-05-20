@@ -47,7 +47,7 @@ Experience
 
 * Open source experience
     - Exposure to file handling, modules and libraries in Python
-    - Exposure to version control system like GIT
+    - Exposure to version control system like Git
     - Open source project contribution experience
     - Programmed for web application built in Django for user login and CRUD operations
     - Documentation experience
