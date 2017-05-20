@@ -41,13 +41,13 @@ Experience
     - Experience and expertise with ABAP with object oriented programming
     - Worked in FICO (Finance and Controlling) domain for major German client in manufacturing industry.
     - Working on data dictionary objects like tables, views, table maintenance with SAP and Non-SAP data sources.
-    - Worked with BMC Remedy indident management tool to resolve incidents with SLA.
+    - Worked with BMC Remedy incident management tool to resolve incidents with SLA.
     - Bug fixings and peer code review
     - Good communication skills and understanding of business processes along with technical development.
 
 * Open source experience
     - Exposure to file handling, modules and libraries in Python
-    - Exposure to VCS like GIT
+    - Exposure to version control system like GIT
     - Open source project contribution experience
     - Programmed for web application built in Django for user login and CRUD operations
     - Documentation experience
