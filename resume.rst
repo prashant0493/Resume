@@ -5,9 +5,7 @@ Email: prashantjamkhande@gmail.com
 
 Code: https://github.com/prashant0493
 
-IRC: PrashatJ | `Freenode <https://webchat.freenode.net/>`_
-
-Blog : `https://prashantjamkhande.wordpress.com/`
+IRC: PrashantJ | `Freenode <https://webchat.freenode.net/>`_
 
 (+91) 94 0438 1575
 
@@ -19,13 +17,13 @@ Career objective
 Being FOSS and Python enthusiast, I believe in learning and growing by sharing knowledge. I want to utilize open source platforms to build new solutions, solve complex business problems and constantly keep learning.
 
 
-skills
+Skills
 ---------
 * Programming languages::
         Python 2.x/3.x, Java, SAP ABAP, SQL, HTML
 
 * Tools and systems::
-         Django, Git, vim, Linux (Fedora 24), SAP
+         Django, Git, Ansible, vim, Linux (Fedora, RHEL), Vagrant, VirtualEnv, SAP, MySQL
 
 * Documentation tools:: 
         Sphinx, reST
@@ -33,13 +31,12 @@ skills
 * Interests::
         Python, FOSS, Web development, Linux
 
-
+----------------
 Experience
 ----------------
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Accenture India pvt. limited, Hyderabad  (November, 2015 to present date)
-
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Worked on SAP based support project with SAP's standard programming langauage ABAP.
 - Experience and expertise with ABAP with object oriented programming
 - Worked in FICO (Finance and Controlling) domain for major German client in manufacturing industry.
@@ -47,21 +44,27 @@ Accenture India pvt. limited, Hyderabad  (November, 2015 to present date)
 - Worked with BMC Remedy indident management tool to resolve incidents with SLA.
 - Bug fixings and code review
 
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Open source experience
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Exposure to file handling, modules and libraries in Python
 - Exposure to VCS like GIT
 - Open source project contribution experience
 - Programmed for web application built in Django for user login and CRUD operations
 - Documentation experience
+- Learning RHEL7 administration for RHCE
 
-
+^^^^^^^^^^^^^^^^^^^^
 Community roles: 
-
+^^^^^^^^^^^^^^^^^^^^
 - Active volunteer at Hyderabad Python users community for organizing regular meetups
 - Volunteer at `PyCon India, 2016 <https://in.pycon.org/2016/>`_
 - Delivered talk in local meetups `Python 101 session Under HydPy <http://www.hydpy.org/python%20basic/python/python-101-hands-on-session>`_
+- Conducted Python 101, my `presentation slides https://github.com/HydPy/HydPy-meetups/blob/master/Python101_April_2017/session_1/Python%20101(1).pdf>`_
 - Participated in DevSprint at `PyCon Pune <https://pune.pycon.org/>`_
+- Active participation in online community called `DGPLUG <https://dgplug.org/>`_ which is devoted to knowledge sharing related to FOSS.
 
+------------
 Education
 ------------
 
@@ -72,6 +75,7 @@ Education
        + SSC from LBS high school, 2009 (Aggregate: 92.30%)
 
         
+------------------
 Personal details
 ------------------
 
@@ -83,6 +87,4 @@ Hobbies: Reading (blogs/books), learning new technologies
 
 Native of: Maharashtra, India
 
-Extra curricular activities: 
         
-        Active participation in online community called `DGPLUG <https://dgplug.org/>`_ which is devoted to knowledge sharing related to FOSS.
