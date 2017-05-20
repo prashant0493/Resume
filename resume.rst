@@ -60,7 +60,7 @@ Community roles:
 - Active volunteer at Hyderabad Python users community for organizing regular meetups
 - Volunteer at `PyCon India, 2016 <https://in.pycon.org/2016/>`_
 - Delivered talk in local meetups `Python 101 session Under HydPy <http://www.hydpy.org/python%20basic/python/python-101-hands-on-session>`_
-- Conducted Python 101, my `presentation slides https://github.com/HydPy/HydPy-meetups/blob/master/Python101_April_2017/session_1/Python%20101(1).pdf>`_
+- Conducted Python 101, my `presentation slides <https://github.com/HydPy/HydPy-meetups/blob/master/Python101_April_2017/session_1/Python%20101(1).pdf>`_
 - Participated in DevSprint at `PyCon Pune <https://pune.pycon.org/>`_
 - Active participation in online community called `DGPLUG <https://dgplug.org/>`_ which is devoted to knowledge sharing related to FOSS.
 
