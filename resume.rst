@@ -43,19 +43,19 @@ Experience
     - My role was to build scalable applications for IT automation for ERP fallout data manipulation using AI models
     - Developed Django REST APIs independently with integration of AI models
     - Contributed to overall product design by proposing effiecient solutions
-    - Developed customizable, scalable generic data analysis tool for BPO
-    - Optimized performance of existing tools using multithreading multiprocessing and load balancing features of NGINX
+    - Developed customizable, scalable generic data analysis tool using pandas
+    - Optimized performance of existing tools using multithreading, multiprocessing libraries and load balancing features of NGINX
     - Code maintainance experience using microsoft TFS, BitBucket, Github etc.
     - Deployment on staging, performance and production server (ubuntu, RHEL) using NGINX server
     - Gunicorn, NGINX, Supervisor, django combination for deployment of REST APIs for concurrency and performance optimization
     - Worked on Bug fixings, unit testing and peer code review
     - Worked closely with Artificial Intelligence team, sound exposure to Machine learning and AI using Python
     - Developed document classification tool using Machine learning libraries in Python (scikit-learn)
-    - Technical documentation experience of developed tools for support team
+    - Technical documentation experience of tools for support team
     - Good communication skills and understanding of business processes along with technical development
 
 * Open source experience
-    - Contributor to various Free and open source projects, participation in technical conferences as lead volunteer
+    - Contributor to various free and open source projects, participation in technical conferences as lead volunteer
     - Exposure to version control system like Git
     - Programmed for web application built in Django for user login and CRUD operations
     - Learning RHEL7 administration for RHCE
