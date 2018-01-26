@@ -20,37 +20,44 @@ Being FOSS and Python enthusiast, I believe in learning and growing by sharing k
 Skills
 ---------
 * Programming languages
-        *Python 2.x/3.x, Java, SAP ABAP, SQL, HTML*
+        *Python 2.x/3.x, Java, SQL, HTML*
+
+* Python libraries
+        *django, django-REST framework, pandas, numpy, scipy, scikit-learn, threading, multiprocessing*
 
 * Tools and systems
-         *Django, Git, Ansible, vim, Linux (Fedora, RHEL), Vagrant, VirtualEnv, SAP, MySQL*
+         *Git (github, TFS, bitbucket), vim, Docker, Docker-compose, Linux (Fedora, Ubuntu, RHEL), Vagrant, VirtualEnv, MySQL*
 
 * Documentation tools 
         *Sphinx, reST*
 
 * Interests
-        *Python, FOSS, Web development, Linux*
+        *Python, FOSS, Data analysis, Machine learning, Web development, Linux, DevOps tools*
 
 
 
 ----------------
 Experience
 ----------------
-* Accenture India pvt. limited, Hyderabad  (November, 2015 to present date)
-    - Worked on SAP based support project with SAP's standard programming language ABAP.
-    - Experience and expertise with ABAP with object oriented programming
-    - Worked in FICO (Finance and Controlling) domain for major German client in manufacturing industry.
-    - Working on data dictionary objects like tables, views, table maintenance with SAP and Non-SAP data sources.
-    - Worked with BMC Remedy incident management tool to resolve incidents with SLA.
-    - Bug fixings and peer code review
-    - Good communication skills and understanding of business processes along with technical development.
+* Accenture India pvt. limited, Hyderabad  (November, 2015 to present date) - Application Development Analyst
+    - My role was to build scalable applications for IT automation for ERP fallout data manipulation using AI models
+    - Developed Django REST APIs independently with integration of AI models
+    - Contributed to overall product design by proposing effiecient solutions
+    - Developed customizable, scalable generic data analysis tool for BPO
+    - Optimized performance of existing tools using multithreading multiprocessing and load balancing features of NGINX
+    - Code maintainance experience using microsoft TFS, BitBucket, Github etc.
+    - Deployment on staging, performance and production server (ubuntu, RHEL) using NGINX server
+    - Gunicorn, NGINX, Supervisor, django combination for deployment of REST APIs for concurrency and performance optimization
+    - Worked on Bug fixings, unit testing and peer code review
+    - Worked closely with Artificial Intelligence team, sound exposure to Machine learning and AI using Python
+    - Developed document classification tool using Machine learning libraries in Python (scikit-learn)
+    - Technical documentation experience of developed tools for support team
+    - Good communication skills and understanding of business processes along with technical development
 
 * Open source experience
-    - Exposure to file handling, modules and libraries in Python
+    - Contributor to various Free and open source projects, participation in technical conferences as lead volunteer
     - Exposure to version control system like Git
-    - Open source project contribution experience
     - Programmed for web application built in Django for user login and CRUD operations
-    - Documentation experience
     - Learning RHEL7 administration for RHCE
 
 * Community roles: 
