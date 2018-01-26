@@ -9,7 +9,7 @@ IRC: PrashantJ | `Freenode <https://webchat.freenode.net/>`_
 
 (+91) 94 0438 1575
 
-Madhapur, Hyderabad, 500081
+Marathahalli, Bangalore, 560037
 
 
 Career objective
@@ -23,7 +23,7 @@ Skills
         *Python 2.x/3.x, Java, SQL, HTML*
 
 * Python libraries
-        *django, django-REST framework, pandas, numpy, scipy, scikit-learn, threading, multiprocessing*
+        *Django, Django-REST framework, pandas, numpy, scipy, scikit-learn, threading, multiprocessing*
 
 * Tools and systems
          *Git (github, TFS, bitbucket), vim, Docker, Docker-compose, Linux (Fedora, Ubuntu, RHEL), Vagrant, VirtualEnv, MySQL*
@@ -39,7 +39,7 @@ Skills
 ----------------
 Experience
 ----------------
-* Accenture India pvt. limited, Hyderabad  (November, 2015 to present date) - Application Development Analyst
+* Accenture India pvt. limited, Bangalore  (November, 2015 to present date) - Application Development Analyst
     - My role was to build scalable applications for IT automation for ERP fallout data manipulation using AI models
     - Developed Django REST APIs independently with integration of AI models
     - Contributed to overall product design by proposing effiecient solutions
@@ -71,7 +71,7 @@ Experience
 Education
 ------------
 
-       + Bachelor of Engineering, Information Technology, from Smt. Kashibai Navle college of Engineering, Pune with first class, 2015 (Aggregate: 58%)
+       + Bachelor of Engineering, Information Technology, from Smt. Kashibai Navle college of Engineering, Pune with first class, 2015
         
        + HSC from Shivaji college, 2011 (Aggregate: 81.67%)
         
