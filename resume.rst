@@ -26,7 +26,7 @@ Skills
         *Django, Django-REST framework, pandas, numpy, scipy, scikit-learn, threading, multiprocessing*
 
 * Tools and systems
-         *Git (github, TFS, bitbucket), vim, Docker, Docker-compose, Linux (Fedora, Ubuntu, RHEL), Vagrant, VirtualEnv, MySQL*
+        *Git (github, TFS, bitbucket), vim, Docker, Docker-compose, Linux (Fedora, Ubuntu, RHEL), Vagrant, VirtualEnv, MySQL, Putty, Pycharm (CE), WinSCP*
 
 * Documentation tools 
         *Sphinx, reST*
