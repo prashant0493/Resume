@@ -45,9 +45,9 @@ Experience
     - Contributed to overall product design by proposing effiecient solutions
     - Developed customizable, scalable generic data analysis tool using pandas
     - Optimized performance of existing tools using multithreading, multiprocessing libraries and load balancing features of NGINX
-    - Code maintainance experience using microsoft TFS, BitBucket, Github etc.
+    - Code mainteinance experience using Microsoft TFS, BitBucket, Github etc.
     - Deployment on staging, performance and production server (ubuntu, RHEL) using NGINX server
-    - Gunicorn, NGINX, Supervisor, django combination for deployment of REST APIs for concurrency and performance optimization
+    - Gunicorn, NGINX, Supervisor, Django combination for deployment of REST APIs for concurrency and performance optimization
     - Worked on Bug fixings, unit testing and peer code review
     - Worked closely with Artificial Intelligence team, sound exposure to Machine learning and AI using Python
     - Developed document classification tool using Machine learning libraries in Python (scikit-learn)
